@@ -1,6 +1,12 @@
 # Titanic-Survival-Predictions-using-machine-learning
 A machine learning model to predict the survived passengers from the titanic disaster.
 
+Libraries used : <br />
+Numpy <br />
+Pandas <br />
+Matplotlib <br />
+Sklearn <br />
+
 I will be testing the following models with my training data : <br />
 
 Gaussian Naive Bayes <br />
